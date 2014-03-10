@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393814534 source:c:\users\dzammit\dropbox\programming\c++\samsteachyourself\heroinventory\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
